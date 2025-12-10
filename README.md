@@ -1,3 +1,3 @@
 # amazon-clone
-#amazon clone for you tube tutorial by doumcoding
-author shubham pandey
+Create Amazon clone for you tube tutorial by doumcoding Channel <br>
+## author shubham pandey
